@@ -4,7 +4,7 @@
             <i class="large material-icons">add</i>
         </a>
         <ul class="floating-btn-list">
-            <li class="floating-item green-text"><router-link to="/shopping-carts">Shopping List </router-link><router-link class="btn-floating green" to="/shopping-lists"><i class="material-icons">add_shopping_cart</i></router-link></li>
+            <li class="floating-item green-text"><router-link to="/shopping-carts">Shopping List </router-link><router-link class="btn-floating green" to="/shopping-lists"><i class="material-icons">local_grocery_store</i></router-link></li>
             <li class="floating-item blue-text"><router-link to="/incomes">Income </router-link><router-link class="btn-floating blue" to="/incomes"><i class="material-icons">monetization_on</i></router-link></li>
             <li class="floating-item red-text text-darken-1"><router-link to="/damages-and-losses">Damages & Losses </router-link><router-link class="btn-floating red darken-1" to="/damages-and-losses"><i class="material-icons">broken_image</i></router-link></li>
             <!--<li><a class="btn-floatingx blue">Furniture, Kitchenware & Utensiles <i class="material-icons">attach_file</i></a></li>

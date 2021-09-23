@@ -8,7 +8,7 @@ import DashboardIncomes from "../views/DashboardIncomes";
 import ListIncomes from "../views/ListIncomes";
 import DashboardDamagesAndLosses from "../views/DashboardDamagesAndLosses";
 import ListDamagesAndLosses from "../views/ListDamagesAndLosses";
-
+import InsightsAndStatistics from "../views/InsightsAndStatistics";
 
 
 const routes = [
@@ -51,6 +51,11 @@ const routes = [
         path: '/damages-and-losses-list',
         name: 'ListDamagesAndLosses',
         component: ListDamagesAndLosses
+    },
+    {
+        path: '/insights-and-statistics',
+        name: 'InsightsAndStatistics',
+        component: InsightsAndStatistics
     }
 ]
 
